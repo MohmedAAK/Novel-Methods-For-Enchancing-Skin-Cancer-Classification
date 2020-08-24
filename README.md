@@ -24,17 +24,16 @@ Best first teams of this challenge
 
 ![](Teams.jpg)
 
-
 (LCC) was compared with crop certain(crop based on prediction of mask) by simple analysis and with bitwise(AND mask with image) by models created to compare limited crop to bitwise.
 
-(CWT) was compared with stacking ensemble (average and voting)
+(CWT) was compared with stacking ensemble (average and voting).
 
 Important note : all notebooks were created on Google colab due our limited resources so path system would be different if you used it on your laptop and you will be forced to download all data from drivers instead of just including it as add to my drive from links that we provide in some of the notebooks.
 
-recommendation : if you want to understand just the 2 novel method and not interested in anything else foucs reading only on start of explaination of each method in both chapters('page:' pre-processing chapter for (LCC) ,'page:' training and test results chapter for (CWT)) .
+recommendation : if you want to understand just the 2 novel method and not interested in anything else foucs reading only on start of explaination of each method in both chapters( 'page: ' pre-processing chapter for (LCC) , 'page: ' training and test results chapter for (CWT)) .
 
-Team would like to Thank you for being patient ,we hope you enjoy reading the 2 novel methods
-  
-With regards mm team
+Team would like to Thank you for being patient ,we hope you enjoy reading the 2 novel methods.
+
+With regards mm team.
 
 ![](mm.png)
