@@ -2,15 +2,15 @@
 
 ![](Graduation_project.jpg)
 
-Graduation project(research)
+Graduation project(research about skin cancer)
 
-This study aims to create new methods from problems that we will meet or face in ICIS 2018 Challgne that commen method was not the best option for these problems
+This study aims to create new methods from problems that we will meet or face in skin cancer ICIS 2018 Challgne that commen method was not the best option for these problems
 
-Results are 2 methods one in segmentation called limited crop certain(LCC) its pseudocode (to fully understand it or to know how to use it read document by recommendation)
+Results are 2 methods one in segmentation of skin cancer called limited crop certain(LCC) its pseudocode (to fully understand it or to know how to use it read document by recommendation)
 
 ![](LCC.jpg) 
 
-and one in enseble called class weight transformation(CWT) its psudocode (to fully understand it or to know how to use it read document by recommendation) 
+and one in enseble give each skin cancer class weight called class weight transformation(CWT) its psudocode (to fully understand it or to know how to use it read document by recommendation) 
 
 ![](CWT.jpg)   
 
