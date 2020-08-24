@@ -10,4 +10,6 @@ heightest results we could achive was by new enseble (CWT) (10 simple models no 
 
 (LCC) was compared with crop certain by simple analysis and with bitwise(AND mask with image) by models
 
-recommendation if you want to understand just the 2 method foucs reading only on start of explaination of each method in both chapters('start' pre-processing architectures for (LCC) ,'afte middle' train and results for(CWT)
+Important note : all notebooks were created on Google colab so path system would be so different if you used it on your laptop and you will be forced to download all data from drivers instead of just including it.
+
+recommendation : if you want to understand just the 2 method and not interested in anything else foucs reading only on start of explaination of each method in both chapters('start' pre-processing architectures for (LCC) ,'afte middle' train and results for(CWT)
