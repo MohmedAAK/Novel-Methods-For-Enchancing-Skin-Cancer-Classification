@@ -1,1 +1,2 @@
-# skin_cancer
+# Novel methods for enchancing skin cancer classication
+
