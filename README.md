@@ -34,6 +34,6 @@ recommendation : if you want to understand just the 2 novel method and not inter
 
 Team would like to Thank you for being patient ,we hope you enjoy reading the 2 novel methods.
 
-With regards mm team.
+MM team
 
 ![](mm.png)
