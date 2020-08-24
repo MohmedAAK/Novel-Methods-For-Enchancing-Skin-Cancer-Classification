@@ -1,5 +1,7 @@
 # Novel methods for enchancing skin cancer classication
 
+![](Graduation_project.jpg)
+
 This study aims to create new methods from problems that we will meet or face in ICIS 2018 Challgne that commen method was not the best option for these problems
 
 Results are 2 methods one in segmentation called limited crop certain(LCC) its pseudocode (to fully understand read document by recommendation)
@@ -21,8 +23,10 @@ Best first teams of this challenge
 ![](Teams.jpg)
 
 
-(LCC) was compared with crop certain by simple analysis and with bitwise(AND mask with image) by models
+(LCC) was compared with crop certain by simple analysis and with bitwise(AND mask with image) by models.
 
-Important note : all notebooks were created on Google colab so path system would be so different if you used it on your laptop and you will be forced to download all data from drivers instead of just including it.
+(CWT) was compared with stacking ensemble (average and voting)
 
-recommendation : if you want to understand just the 2 method and not interested in anything else foucs reading only on start of explaination of each method in both chapters('page:' pre-processing chapter for (LCC) ,'page:' training and test results chapter for (CWT)) 
+Important note : all notebooks were created on Google colab so path system would be different if you used it on your laptop and you will be forced to download all data from drivers instead of just including it as add to my drive from links that we provide in some of the notebooks.
+
+recommendation : if you want to understand just the 2 novel method and not interested in anything else foucs reading only on start of explaination of each method in both chapters('page:' pre-processing chapter for (LCC) ,'page:' training and test results chapter for (CWT)) .
