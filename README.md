@@ -25,7 +25,7 @@ Best first teams of this challenge
 ![](Teams.jpg)
 
 
-(LCC) was compared with crop certain(crop based on prediction of musk) by simple analysis and with bitwise(AND mask with image) by models created to compare limited crop to bitwise.
+(LCC) was compared with crop certain(crop based on prediction of mask) by simple analysis and with bitwise(AND mask with image) by models created to compare limited crop to bitwise.
 
 (CWT) was compared with stacking ensemble (average and voting)
 
