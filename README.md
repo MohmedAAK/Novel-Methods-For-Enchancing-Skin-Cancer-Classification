@@ -2,6 +2,8 @@
 
 ![](Graduation_project.jpg)
 
+Graduation project(research)
+
 This study aims to create new methods from problems that we will meet or face in ICIS 2018 Challgne that commen method was not the best option for these problems
 
 Results are 2 methods one in segmentation called limited crop certain(LCC) its pseudocode (to fully understand it or to know how to use it read document by recommendation)
