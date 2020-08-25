@@ -28,9 +28,13 @@ Best first teams of this challenge
 
 (CWT) was compared with stacking ensemble (average and voting).
 
+About Data: data are uploaded into Google drive to reach it with colab , all data needed would be found in single CNN model code as comment links are shared and you can just click add to my_drive and use it normally in colab after connected to same driver , data( data of challenge with test ,our edited copy after apply limited crop on training and test , and another copy by bitwise) 
+
+Method: LCC have example in code not optimized as the same in psudocode but do the same target , CWT have no example in code but feel free to ask if you apply it as code and want to make sure, in future we plan to put clear easy to understand code as example for both methods you can wait or shot your question right away and someone will answer for sure.   
+
 Important note : all notebooks were created on Google colab due our limited resources so path system would be different if you used it on your laptop and you will be forced to download all data from drivers instead of just including it as add to my drive from links that we provide in some of the notebooks.
 
-recommendation : if you want to understand just the 2 novel method and not interested in anything else foucs reading only on start of explaination of each method in both chapters( 'page: 39 ' pre-processing chapter for (LCC) , 'page: 92 ' training and test results chapter for (CWT)) .
+Recommendation : if you want to understand just the 2 novel method and not interested in anything else foucs reading only on start of explaination of each method in both chapters( 'page: 39 ' pre-processing chapter for (LCC) , 'page: 92 ' training and test results chapter for (CWT)) .
 
 Team would like to Thank you for being patient ,we hope you enjoy reading the 2 novel methods.
 
