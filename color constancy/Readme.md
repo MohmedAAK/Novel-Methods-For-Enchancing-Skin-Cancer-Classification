@@ -7,4 +7,4 @@ Our main light effect was augmentation random light (max=0.5) by fastai api
 
 This code has been used once so it is not optimized as you will see
 
-Feel free to try your own ideas , we just did simple tests with fastai in few epoches so we don't know long term training effect due our limited season time of colab
+Feel free to try your own ideas , we just did simple tests with fastai in few epoches so we don't know long term training effect due our limited session time of colab
