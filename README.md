@@ -10,7 +10,7 @@ Results are 2 methods one in segmentation of skin cancer called limited crop cer
 
 ![](LCC.jpg) 
 
-and one in enseble give each skin cancer class weight called class weight transformation(CWT) its psudocode (to fully understand it or to know how to use it read document by recommendation) 
+and one in ensemble give each skin cancer class weight called class weight transformation(CWT) its psudocode (to fully understand it or to know how to use it read document by recommendation) 
 
 ![](CWT.jpg)   
 
