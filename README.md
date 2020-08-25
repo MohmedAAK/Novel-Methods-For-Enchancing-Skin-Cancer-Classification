@@ -16,7 +16,7 @@ and one in ensemble give each skin cancer class weight called class weight trans
 
 we did not aim to get high results we just want to prove that our methods worth to try as replacement for common methods in this field
 
-Heightest results: we could achive was by novel enseble (CWT) (best 10 simple models no 5-fold) 83,4% balanced accurcy on live leader board without extra data within our experiments
+Heightest results: we could achive was by novel ensemble (CWT) (best 10 simple models no 5-fold) 83,4% balanced accurcy on live leader board without extra data within our experiments
 
 ![](Our_team.jpg)
 
