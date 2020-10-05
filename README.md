@@ -1,4 +1,4 @@
-# Novel methods for enchancing skin cancer classification
+# Novel methods for enhancing skin cancer classification
 
 ![](Graduation_project.jpg)
 
